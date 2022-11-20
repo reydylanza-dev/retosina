@@ -33,7 +33,7 @@ class App extends Component {
          style={styles.button}
          onPress={this.onPress}
         >
-         <Text>COBA TEKAN</Text>
+         <Text>COBA TEKAN INI</Text>
         </TouchableOpacity>
         <View>
           <Text>
