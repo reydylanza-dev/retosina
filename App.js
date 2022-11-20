@@ -24,7 +24,7 @@ class App extends Component {
          style={styles.button}
          onPress={this.onPress}
         >
-         <Text>Click me</Text>
+         <Text>tekan saya</Text>
         </TouchableOpacity>
         <View>
           <Text>
@@ -39,9 +39,15 @@ class App extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+<<<<<<< Updated upstream
+=======
+    backgroundColor: '#fff',
+    alignItems: 'left',
+>>>>>>> Stashed changes
     justifyContent: 'center',
     alignItems: 'center',
   },
+<<<<<<< Updated upstream
   button: {
     alignItems: 'center',
     backgroundColor: '#DDDDDD',
@@ -51,3 +57,7 @@ const styles = StyleSheet.create({
 })
 
 export default App;
+=======
+});
+
+>>>>>>> Stashed changes
