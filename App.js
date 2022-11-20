@@ -13,9 +13,9 @@ const styles = StyleSheet.create({
     marginTop: 50,
   },
   bigBlue: {
-    color: 'blue',
+    color: 'green',
     fontWeight: 'bold',
-    fontSize: 30,
+    fontSize: 45,
   },
   red: {
     color: 'red',
